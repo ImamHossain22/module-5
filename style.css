@@ -29,6 +29,11 @@ body {
 
 }
 
+.Download{
+   text-align: center;
+   margin-top: 70px;
+}
+
 .section-description {
    color: #757575;
    text-align: center;
