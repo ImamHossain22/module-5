@@ -181,3 +181,48 @@ main {
    font-size: 16px;
    font-weight: 400;
 }
+
+/* resume section  */
+
+.resume-section{
+   display: flex;
+   gap: 50px;
+   justify-content: space-around;
+}
+
+hr{
+   color: #D1D1D1;
+}
+.container-title {
+   color: #474747;
+   font-size: 30px;
+   font-weight: 700;
+
+}
+
+.education-title {
+
+   color: #474747;
+   font-size: 25px;
+   font-weight: 700;
+}
+
+.institute {
+   color: #757575;
+   font-size: 20px;
+   font-weight: 600;
+}
+
+.description {
+   color: #757575;
+   width: 500px;
+   font-size: 16px;
+   font-weight: 400;
+}
+
+.experinece-name {
+   color: #474747;
+   font-size: 25px;
+   font-weight: 600;
+
+}
