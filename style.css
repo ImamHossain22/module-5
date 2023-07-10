@@ -29,7 +29,7 @@ body {
 
 }
 
-.Download{
+.Download {
    text-align: center;
    margin-top: 70px;
 }
@@ -189,15 +189,16 @@ main {
 
 /* resume section  */
 
-.resume-section{
+.resume-section {
    display: flex;
    gap: 50px;
    justify-content: space-around;
 }
 
-hr{
+hr {
    color: #D1D1D1;
 }
+
 .container-title {
    color: #474747;
    font-size: 30px;
@@ -230,4 +231,11 @@ hr{
    font-size: 25px;
    font-weight: 600;
 
+}
+
+/* footer section */
+
+.footer {
+   background-color: #FFF8F3;
+   margin-top: 150px;
 }
